@@ -1,0 +1,16 @@
+{
+  "name": "dp_klusacek_code",
+  "version": "1.0.0",
+  "description": "Random multilingual search tool to protect users against profiling",
+  "main": "main.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "author": "Jan Klusáček",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
